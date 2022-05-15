@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/mdminhaz2003/mdminhaz2003/master/wave.gif" width="30px">, I am Md. Minhaz </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my high school degree in the year 2029. <br>Soon, I would be joining to peopleperhour as a freelancer.</p>
+<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my high school degree in the year 2021. <br>Soon, I would be joining to peopleperhour as a freelancer.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Dmdminhaz2003%7D/count.svg" alt="visitor badge"/></p>
