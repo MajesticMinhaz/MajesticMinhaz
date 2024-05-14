@@ -1,15 +1,15 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mdminhaz2003/mdminhaz2003/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/mdminhaz2003/mdminhaz2003/master/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MajesticMinhaz/mdminhaz2003/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MajesticMinhaz/mdminhaz2003/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/mdminhaz2003/mdminhaz2003/master/wave.gif" width="30px">, I am Md. Minhaz </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MajesticMinhaz/MajesticMinhaz/master/wave.gif" width="30px">, I am Md. Minhaz </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my high school degree in the year 2021. <br>Soon, I would be joining to peopleperhour as a freelancer.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Dmdminhaz2003%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdminhaz2003&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mdminhaz2003&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=mdminhaz2003&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7DMajesticMinhaz%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajesticMinhaz&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MajesticMinhaz&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=MajesticMinhaz&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,11 +42,11 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/mdminhaz2003"><img src="https://img.shields.io/badge/-Buy me a coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=yellow"/></a>
 <a href="https://www.youtube.com/easycoding2021/"><img src="https://img.shields.io/badge/-Easy Coding-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href="https://www.facebook.com/mdminhaz2003/"><img src="https://img.shields.io/badge/-Md. Minhaz-3423A6?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/md-minhaz-b32052203/"><img src="https://img.shields.io/badge/-Md. Minhaz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/MajesticMinhaz/"><img src="https://img.shields.io/badge/-Md. Minhaz-3423A6?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/MajesticMinhaz/"><img src="https://img.shields.io/badge/-Md. Minhaz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mdm047767@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mdminhaz2003/"><img src="https://img.shields.io/badge/-Md. Minhaz-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/easycoding2021/"><img src="https://img.shields.io/badge/-Easy Coding-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/MajesticMinhaz/"><img src="https://img.shields.io/badge/-Md. Minhaz-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/MajesticMinhaz/"><img src="https://img.shields.io/badge/-Easy Coding-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-Last Updated On: 23/12/2021
+Last Updated On: 14/05/2024
